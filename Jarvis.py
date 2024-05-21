@@ -67,7 +67,7 @@ def searchPerson(command):
 
 if __name__ == '__main__':
     print("This AI is Developed by Sahkar")
-    #say("Hii there Jarvis Here, How Can I help with you")
+    say("Hii there Jarvis Here, How Can I help with you")
 
     while True:
         command = takeCommand()
