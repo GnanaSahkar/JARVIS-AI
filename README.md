@@ -1,3 +1,11 @@
+Function to Integrate Open AI using OpenAI libraries and API Key
+
+
+
+
+
+
+
 def ai(prompt):
     OPENAI_API_KEY = "Enter your API here"
     client = OpenAI(api_key=OPENAI_API_KEY)
