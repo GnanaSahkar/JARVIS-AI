@@ -111,4 +111,4 @@ if __name__ == '__main__':
             say(f"Hello there,Jarvis here, How could i help you")
         '''if "surendra" in command.lower():
             say("Final year Panimalar Student")'''
-#todo:Replce the chatGPT API with the Gemini
+#todo: add as many functions based on Requirement
