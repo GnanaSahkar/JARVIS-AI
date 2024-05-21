@@ -107,7 +107,7 @@ if __name__ == '__main__':
         if "jokes" in command.lower():
             say(pyjokes.get_joke())
 
-        if "hi jarvis" in command.lower():
+        if "hey jarvis" in command.lower():
             say(f"Hello there,Jarvis here, How could i help you")
         '''if "surendra" in command.lower():
             say("Final year Panimalar Student")'''
